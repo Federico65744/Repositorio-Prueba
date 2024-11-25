@@ -6,3 +6,5 @@
 6-Sexta linea
 7-septima linea
 9-Novena linea
+8-Octava linea
+10-Decima linea
